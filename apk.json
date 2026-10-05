@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "NameCalc",
+    "slug": "calculatesuper",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "namecalc",
+    "android": {
+      "package": "com.zinko.namecalc",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
+
